@@ -1,5 +1,6 @@
 global.expect = require('expect')
 global.sinon = require('sinon')
+global.Handlebars = require('handlebars')
 
 const fs = require('fs')
 const jsdom = require('mocha-jsdom')
